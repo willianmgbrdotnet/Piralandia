@@ -1,15 +1,23 @@
-﻿using System; 
+﻿using System;
+using System.Text;
 
-class URI {
+class URI
+{
 
-    static void Main(string[] args) { 
+    static void Main(string[] args) 
+    { 
 
             string n = Console.ReadLine();
             //continue a solução
-           
-            string v = new string(arr);
-            Console.WriteLine(v);
+            StringBuilder padraoBr = new StringBuilder();
 
+            for(var i = n.Length-1; i >= 0; i--)
+            {
+                padraoBr.Append(n[i]);
+            }
+
+            var v = padraoBr;
+            Console.WriteLine(v);
     }
 
 }
