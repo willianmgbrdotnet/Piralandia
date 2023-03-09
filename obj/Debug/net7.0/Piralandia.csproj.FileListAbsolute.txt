@@ -1,0 +1,15 @@
+C:\dio\desafiodecodigo\Piralandia\obj\Debug\net7.0\Piralandia.csproj.AssemblyReference.cache
+C:\dio\desafiodecodigo\Piralandia\obj\Debug\net7.0\Piralandia.GeneratedMSBuildEditorConfig.editorconfig
+C:\dio\desafiodecodigo\Piralandia\obj\Debug\net7.0\Piralandia.AssemblyInfoInputs.cache
+C:\dio\desafiodecodigo\Piralandia\obj\Debug\net7.0\Piralandia.AssemblyInfo.cs
+C:\dio\desafiodecodigo\Piralandia\obj\Debug\net7.0\Piralandia.csproj.CoreCompileInputs.cache
+C:\dio\desafiodecodigo\Piralandia\bin\Debug\net7.0\Piralandia.exe
+C:\dio\desafiodecodigo\Piralandia\bin\Debug\net7.0\Piralandia.deps.json
+C:\dio\desafiodecodigo\Piralandia\bin\Debug\net7.0\Piralandia.runtimeconfig.json
+C:\dio\desafiodecodigo\Piralandia\bin\Debug\net7.0\Piralandia.dll
+C:\dio\desafiodecodigo\Piralandia\bin\Debug\net7.0\Piralandia.pdb
+C:\dio\desafiodecodigo\Piralandia\obj\Debug\net7.0\Piralandia.dll
+C:\dio\desafiodecodigo\Piralandia\obj\Debug\net7.0\refint\Piralandia.dll
+C:\dio\desafiodecodigo\Piralandia\obj\Debug\net7.0\Piralandia.pdb
+C:\dio\desafiodecodigo\Piralandia\obj\Debug\net7.0\Piralandia.genruntimeconfig.cache
+C:\dio\desafiodecodigo\Piralandia\obj\Debug\net7.0\ref\Piralandia.dll
